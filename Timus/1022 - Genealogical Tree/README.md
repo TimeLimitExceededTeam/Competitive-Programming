@@ -1,0 +1,1 @@
+http://acm.timus.ru/print.aspx?space=1&num=1022
