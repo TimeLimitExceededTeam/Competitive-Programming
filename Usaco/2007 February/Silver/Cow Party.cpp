@@ -1,3 +1,4 @@
+//http://acm.tju.edu.cn/toj/showp2758.html
 #include<bits/stdc++.h>
 using namespace std;
 int a, b, c;
