@@ -65,10 +65,18 @@ int main(){
 	}
 	return 0;
 }
-
 /*
+Clue:
 10
 11
 00
 01
+
+We had an experience solving this problem:
+
+We code a recursive method and this didn't work, Time Limit Exceeded
+but implements the same method as a iteration and Accepted.
+
+Happy coding.
+
 */
